@@ -1,0 +1,37 @@
+#main-title {
+color: #98AFC7;
+font-size: 30px;
+text-align: left;
+font-family: optima;
+}
+
+.content > section {
+background-color: WhiteSmoke;
+font-family: optima;
+}
+
+
+p {
+color: #36454F;
+font-size:18px;
+font-family: optima;
+}
+
+.comprehension h3 {
+font-size: 24px;
+font-family: optima;
+font-style: italic;
+}
+
+.comprehension li {
+font-size: 16px;
+font-style: italic;
+font-weight: bold;
+}
+
+.summary {
+display: inline-block;
+padding: 5px 150px;
+border: 2px dotted #98AFC7;
+border-radius: 0px 50px 50px 50px;
+}
